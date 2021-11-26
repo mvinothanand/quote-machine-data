@@ -1,4 +1,4 @@
-const quotes = [
+export const quotes = [
   {
     id: 1,
     quote:
